@@ -1,0 +1,15 @@
+"C:\Users\chengliang\Desktop\IAR84\arm\bin\armproc.dll" 
+
+"C:\Users\chengliang\Desktop\IAR84\arm\bin\armjlink2.dll" 
+
+"C:\Users\chengliang\Desktop\Firmwork\Thermal_Imaging_0501\EWARM\Thermal_Imaging\Exe\Thermal_Imaging.out" 
+
+--plugin="C:\Users\chengliang\Desktop\IAR84\arm\bin\armbat.dll" 
+
+--device_macro="C:\Users\chengliang\Desktop\IAR84\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="C:\Users\chengliang\Desktop\IAR84\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
